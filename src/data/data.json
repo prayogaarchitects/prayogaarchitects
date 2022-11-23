@@ -1,0 +1,254 @@
+{
+  "Header": {
+    "title": "Welcome to Prayoga",
+    "paragraph": "Blend In with Today's Architecture"
+  },
+  "About": {
+    "paragraph": "We understand that making your home, retail space or office can be an exciting yet daunting affair. But, we have you covered! Our services to you include everything from designing amazingArchitecture & bespoke Interiors that are tailor-made to your dreams; to assisting you in selecting & hiring PMCs, vendors, negotiations & overseeing critical quality outcomes on site.st furniture to the last doorknob and everything in between.Everything is taken care of by us, so that you can have the incredible",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "id":1,
+      "title": "NATURE CURE CENTER",
+      "classification":"INTERIOR",
+      "client": "GOVERNMENT",
+      "location": "NA",
+      "sitearea": "450115.354 SFT",
+      "builtuparea": "77777.651 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "THE NATURE CURE CENTER IS A BEAUTIFUL AND CALM PLACE WITH ALL AMENITIES FOR REGAINING HEALTH. SITUATED IN SANGAREDDY AND PRACTICES NATUROPATHIC METHODS TO RESTORE AND REJUVENATE THE BODY, MIND AND SOUL. THE CENTER IS IN A CONSTANT ENDEAVOR TO EXCEED THE EXPECTION OF HEALTH SEEKERS AND PROVIDE THEM WITH A BETTER QUALITY LIFE.",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "id":2,
+      "title": "AMUSEMENT PARK",
+      "classification":"ARCHITECTURE",
+      "client": "GOVERNMENT",
+      "location": "KAKINADA",
+      "sitearea": "17.5076 SFT",
+      "builtuparea": "5.2082 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "AMUSEMENT PARK IS LOCATED IN THE KAKINADA WITH A ONE-STORIED STRUCTURE WITH 1.945 ACRES.THE PROJECT IS DESIGNED WITH A 5.7 SFT PARKING. IN ADDITION RECREATIONAL ACTIVITIES INCLUDING CRICKET NETS VOLLEYBALL COURT,DINING AREA,FOOD COURTS, LOBBY AREAS.",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "id":3,
+      "title": "APARTMENT",
+      "classification":"INTANDARCH",
+      "client": "Mr. Anand",
+      "location": "VIZAG",
+      "sitearea": "2400 SFT",
+      "builtuparea": "3665.49 SFT",
+      "projecttype": "MIXED-USE",
+      "description": "THIS APARTMENT IS A TWO-STORIED STRUCTURE WITH 2400 SFT SITE AREA, IT IS A MIXED-USE STRUCTURE, GROUND FLOOR IS ALLOTED FOR SHOPS AND PARKING AND FIRST AND SECOUND FLOOR IS FOR THE RESIDENTIAL USE.",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "id":4,
+      "title": "MLA VILLA",
+      "classification":"INTANDARCH",
+      "client": "MLA Mr. Kranthi Kumar",
+      "location": "ANDOLE",
+      "sitearea": "1 ACRE",
+      "builtuparea": "3460 SFT",
+      "projecttype": "MIXED-USE",
+      "description": "THE MLA VILLA IS A DUPLEX STRUCTURE DESIGNED IN ANDOLE IN 1 ACRE WITH A HUGE LOUNGE AREA, IT IS A MIXED USE PROJECT WERE DESIGN HAS OFFICE IN THE LOWER LEVEL, THE OFFICE SPACE CONTAIN CONFERENCE ROOM, MLA CABIN WITH A WORKING DESK AND WAITING AREA. THE REST OF THE BUILDING IS USED AS RESIDENTIAL. THE ULTIMATE FEEL OF THE PROJECT WILL KEEP YOU ON A HIGH ALL THE TIME. ONCE YOU SET FOOT IN THE PROJECT YOU WILL BE PLEASANTLY SURPRISED THAT IT IS YOUR OWN DREAM VILLA. ",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "id":5,
+      "title": "PRASAD RESIDENCY",
+      "classification":"INTANDARCH",
+      "client": "Mr. Prasad",
+      "location": "Eluru",
+      "sitearea": "9600 SFT",
+      "builtuparea": "23500 SFT",
+      "projecttype": "RESIDENTIAL",
+      "description": "PRASAD RESIDENCY IS AN APARTMENT STYLE BUILDING WHICH IS LOCATED IN ELURU IN 9600SFT, THE SCALE OF THE PROJECT IS THE CRITICAL ASPECT IN ANY OF THE HOUSING PROJECT. THE APARTMENT IDEA IS TO PUT AN EMPHASIS ON THE CELLAR, STILT AND G+4 AND PRODUCE A STUCTURE THAT IS VERY HUMAN IN SCALE AND THAT HAS THE FEEL OF A SINGLE DWELLING UNIT",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "id":6,
+      "title": "RAMESH RESIDENCY",
+      "classification":"INTANDARCH",
+      "client": "Mr. Ramesh",
+      "location": "Vizag",
+      "sitearea": "3225 SFT",
+      "builtuparea": "2095 SFT",
+      "projecttype": "RESIDENTIAL",
+      "description": "RAMESH RESIDENCY IS AN APARTMENT STYLE BUILDING WHICH IS LOCATED IN VIZAG IN 3225 SFT, EACH FLOOR CONSISTS OF 2 DWELLING UNITS OF EACH 805 SFT AND COMPRISES OF TOTAL 4 HOUSES AND THE LOWER LEVEL OF THE BUILDING HAS THE PARKING AREA WITH THE WATCHMAN CABINET.",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "id":7,
+      "title": "REDDY RESIDENCY",
+      "classification":"INTANDARCH",
+      "client": "Mr. Reddy",
+      "location": "Vizag",
+      "sitearea": "206.6 SFT",
+      "builtuparea": "5340 SFT",
+      "projecttype": "RESIDENTIAL",
+      "description": "REDDY RESIDENCY IS AN APARTMENT STYLE BUILDING WHICH IS LOCATED IN VIZAG IN 206.6 SQUARE YARDS. THE SITE HAS A 33 FEET WIDE ROAD TOWARDS THE EAST. THE BUILDING HAS 4 LEVELS. IN THE STILT LEVEL IS SET FOR THE PARKING AND THE TOP THREE LEVELS HAS THE DWELLING UNITS FOR EACH FLOOR WITH A 3BHK.",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "id":8,
+      "title": "DARBAR RESTAURANT",
+      "classification":"INTANDARCH",
+      "client": "Mr. Harish",
+      "location": "Eluru",
+      "sitearea": "2965 SFT",
+      "builtuparea": "2187 SQFT",
+      "projecttype": "COMMERCIAL",
+      "description": "DARBAR RESTAURANT IS A STAGGERED STRUCTURE WHICH IS BEEN STAGGERED FROM THE ONE SIDE OF THE BUILDING BY THIS METHOD WE GET PROPER LIGHTING AND VENTILATION INTO THE BUILDING. THE RESTAURANT IS PLANNED AND DESIGNED WITH A GOOD DINING EXPERIENCE TINGLES WITH ALL THE SENSES WITH ELEMENTS OF THE FUSION OF GEOMETRIC SHAPES AND COLOURS.THROUGH THREE PIVOT GLASS WINDOWS, THE DESIGN INTRODUCES THE URBAN PUBLIC SPACE INTO THE INTERIOR. THE WELL ORGANISED FLOOR PLAN HELP THE WHOLE SPACE SEEM COZY.",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "id":9,
+      "title": "SRI DEVI RESIDENCY",
+      "classification":"INTANDARCH",
+      "client": "Ms. Sridevi",
+      "location": "DILSHUKNAGAR",
+      "sitearea": "2706.708 SFT",
+      "builtuparea": "2177.547 SQFT",
+      "projecttype": "RENOVATION",
+      "description": "THIS PROJECT CONSISTS OF THE RENOVATION OF A 2706 SFT IN A DILSUKHNAGAR LOCALITY. THE EXISTING HOUSE WAS CONVERTED INTO A NEW VOLUME WAS PLACED WITHIN THE BOUNDARY. THE WORK INCLUDES COMBINING TWO ROOMS TO CREATE A LARGE KITCHEN, RENOVATING ALL THE BATHROOMS AND BEDROOMS.",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "id":10,
+      "title": "DRIVE INN AND BANQUET HALL",
+      "classification":"INTANDARCH",
+      "client": "Confidential",
+      "location": "DILSHUKNAGAR",
+      "sitearea": "1800.04 SFT",
+      "builtuparea": "4015 SFT",
+      "projecttype": "COMMERCIAL",
+      "description": "THIS PROJECT IS LOCATED IN PRIME AREA OF HYDERABAD IT IS A COMMERCIAL SPACE IN COMBINATION OF BOTH DRIVE INN AND BANQUET HALL. IT FUNCTIONS AS A HANGOUT SPACE. BREAKING THE TRADITIONAL CUSTOMER SERVICE STYLE,WHERE EVERYTHING HAPPENS IN A ENCLOSED ENVIRONMENT.WHILE CONSIDERING THE DRIVER'S VIEW AND CAR SPEED,THE DESIGN MUST BE HIGHLY VISIBLE AND EASY TO ACCESS.LIKE A NEIGHBOURHOOD PARK,A FRIENDLY RELAXING CORNER FOR THE VISITORS. THE PROJECT BANQUET HALL DESIGN CAPABLE OF HOSTING A RANGE OF EVENTS AND FUNCTIONS. IT IS PRIMARILY SERVING AS A SMALL PARTIES WITH ITS OWN RESTAURANT AND DINING FACILITIES",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+    
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "prayogaarchitects@gmail.com",
+    "facebook": "fb.com",
+    "instagram": "https://www.instagram.com/prayogaarchitects/",
+    "youtube": "youtube.com"
+  },
+  "Features": {
+    "servicescaption":"Authentic experience guaranteed throughout your project. Because you deserve no less",
+    "servicesdescription":"We understand that making your home, retail space or office can be an exciting yet daunting affair. But, we have you covered! Our services to you include everything from designing amazingArchitecture & bespoke Interiors that are tailor-made to your dreams; to assisting you in selecting & hiring PMCs, vendors, negotiations & overseeing critical quality outcomes on site.st furniture to the last doorknob and everything in between.Everything is taken care of by us, so that you can have the incredible"
+  }
+    
+  
+}
